@@ -102,7 +102,7 @@ export default function ColorGame() {
         />
         <span className="text-xl font-semibold">Timer: {timer}s</span>
       </div>
-      <div className="text-lg">Round: {round}</span>
+      <div className="text-lg">Round: {round}</div>
       <div className="grid grid-cols-5 gap-2">
         {grid.map((row, r) =>
           row.map((color, c) => (
