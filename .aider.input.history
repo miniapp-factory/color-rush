@@ -1,0 +1,52 @@
+
+# 2025-11-22 15:48:07.214723
++Code the following app
++```
++Make a color-matching game:
++
++- Grid: 7 rows × 5 columns = 35 squares
++- Each square has a random color (use only 8 simple colors: red, blue, green, yellow, purple, orange, pink, black)
++
++At the top:
++- Show one big target color + the timer
++
++Game rules:
++- Timer starts at 10 seconds and counts down.
++- Player must tap all squares that have exactly the same color as the target.
++- When all correct squares are tapped, the round is won and the timer stops immediately.
++- Next round starts automatically with 1 second less (10 → 9 → 8 → etc.).
++- If timer reaches 0, game over.
++
++Show the round number or score.
++When game ends, show final score and "Play Again" button.
++
++Make it clean and easy to tap on phone.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-22 15:48:07.217725
++Code the following app
++```
++Make a color-matching game:
++
++- Grid: 7 rows × 5 columns = 35 squares
++- Each square has a random color (use only 8 simple colors: red, blue, green, yellow, purple, orange, pink, black)
++
++At the top:
++- Show one big target color + the timer
++
++Game rules:
++- Timer starts at 10 seconds and counts down.
++- Player must tap all squares that have exactly the same color as the target.
++- When all correct squares are tapped, the round is won and the timer stops immediately.
++- Next round starts automatically with 1 second less (10 → 9 → 8 → etc.).
++- If timer reaches 0, game over.
++
++Show the round number or score.
++When game ends, show final score and "Play Again" button.
++
++Make it clean and easy to tap on phone.
++```
++
++Generate an app logo and update the app metadata title and description.
